@@ -9,3 +9,4 @@ The images i have added on this project, that is the link from unsplash.com ,you
 
 Technologies Used
 HTML CSS
+hosted link: https://yunnus143.github.io/Parallax-PhotoGraphy-Site/
