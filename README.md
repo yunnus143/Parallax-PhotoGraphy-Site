@@ -7,6 +7,6 @@ The script is controlled mostly from HTML and CSS. You specify layers in your ma
 Image Source
 The images i have added on this project, that is the link from unsplash.com ,you just have to paste the link in url. And more interesting thing in that is ,whenever you reload the page the images will changes everytime by set category.
 
-Technologies Used
-HTML CSS
+Technologies Used: HTML CSS.
+
 hosted link: https://yunnus143.github.io/Parallax-PhotoGraphy-Site/
